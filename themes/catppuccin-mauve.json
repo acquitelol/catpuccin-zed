@@ -231,7 +231,7 @@
             "font_weight": 700
           },
           "function": {
-            "color": "#89b4fa",
+            "color": "#fcbafc",
             "font_style": "italic",
             "font_weight": null
           },
@@ -316,22 +316,22 @@
             "font_weight": null
           },
           "string": {
-            "color": "#a6e3a1",
+            "color": "#efc8e4",
             "font_style": null,
             "font_weight": null
           },
           "string.escape": {
-            "color": "#f5c2e7",
+            "color": "#ebc2f5",
             "font_style": null,
             "font_weight": null
           },
           "string.regex": {
-            "color": "#f5c2e7",
+            "color": "#ebc2f5",
             "font_style": null,
             "font_weight": null
           },
           "string.special": {
-            "color": "#f5c2e7",
+            "color": "#ebc2f5",
             "font_style": null,
             "font_weight": null
           },
