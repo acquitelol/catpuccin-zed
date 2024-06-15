@@ -1,7 +1,7 @@
-id = "catppuccin"
-name = "Catppuccin Themes"
+id = "catppuccin-glass"
+name = "Catppuccin Mocha Glass"
 schema_version = 1
 version = "0.2.7"
-authors = ["Andrew Tec <andrewtec@enjoi.dev>"]
+authors = ["Andrew Tec <andrewtec@enjoi.dev>", "Rosie <@rosie.pie>"]
 description = "🦀 Soothing pastel theme for Zed"
 repository = "https://github.com/catppuccin/zed"
