@@ -15,7 +15,7 @@
         "border.transparent": "#a6e3a1",
         "border.disabled": "#585b70",
         "elevated_surface.background": "#181825",
-        "surface.background": "#1e1e2e",
+        "surface.background": "#00000008",
         "background": "#1e1e2edf",
         "element.background": "#11111b",
         "element.hover": "#6c70864d",
