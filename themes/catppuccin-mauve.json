@@ -320,6 +320,11 @@
             "font_style": null,
             "font_weight": null
           },
+          "identifier": {
+            "color": "#efc8e4",
+            "font_style": null,
+            "font_weight": null
+          },
           "string.escape": {
             "color": "#ebc2f5",
             "font_style": null,
