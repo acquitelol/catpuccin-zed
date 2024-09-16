@@ -320,11 +320,6 @@
             "font_style": null,
             "font_weight": null
           },
-          "identifier": {
-            "color": "#efc8e4",
-            "font_style": null,
-            "font_weight": null
-          },
           "string.escape": {
             "color": "#ebc2f5",
             "font_style": null,
@@ -386,7 +381,7 @@
             "font_weight": null
           },
           "variable.parameter": {
-            "color": "#fab387",
+            "color": "#dcb8d5",
             "font_style": "italic",
             "font_weight": null
           },
